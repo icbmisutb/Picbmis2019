@@ -1,5 +1,5 @@
 title = "Health Sciences Journal Theme"
-baseURL = "https://aambejournal.org/"
+baseURL = "https://example.com/"
 languageCode = "en-US"
 theme = "health-science-journal"
 
