@@ -6,8 +6,8 @@ theme = "health-science-journal"
 # The site's parameters
 [params]
   home = "Home"
-  abbreviatedTitle = "Health Sci. J. Theme"
-  description = "The Health Sciences Journal Theme is a Hugo port of a theme developed by the Public Knowledge Project for Open Journal Systems. It is adapted under a GPL license."
+  abbreviatedTitle = "AAMBE Journal"
+  description = "The Advances in Accounting, Management, Business and Economics Journal is a Hugo port of a theme developed by the Public Knowledge Project for Open Journal Systems. It is adapted under a GPL license."
   favicon = "img/favicon.png"
   mirrorfor = ""
   eISSN = "XXXX-XXXX"
@@ -36,7 +36,7 @@ theme = "health-science-journal"
   twitterhandle = "@epistemehealth"
   socialimage = "img/twittercard.jpg"
   socialimagealt = "Health Sciences Journal Logo"
-  socialdescription = "Health Sciences Journal Description"
+  socialdescription = "Advances in Accounting, Management, Business and Economics Journal Description"
   
   ## Set to true to load libraries from Cloudflare and Bootstrap CDNs where available. Otherwise leave blank.
   useCDN = false
