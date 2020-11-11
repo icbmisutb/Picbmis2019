@@ -1,11 +1,11 @@
-# Health Science Journal
+# Advances in Accounting, Management, Business and Economics Journal
 
-name = "Health Science Journal"
+name = "Advances in Accounting, Management, Business and Economics Journal"
 license = "GPL v3+"
 licenselink = "https://github.com/epistemehealth/health-sciences-theme/blob/master/LICENSE.md"
 description = "Hugo port of the Health Sciences theme for Open Journal systems."
 homepage = "https://github.com/epistemehealth/health-sciences-theme"
-tags = ["journal", "health sciences"]
+tags = ["journal", "AAMBE Journal"]
 features = ["journal", "publishing", "academic", "responsive"]
 min_version = "0.70.0"
 
@@ -15,6 +15,6 @@ authors = [
 ]
 
 [original]
-  name = "Health Science Journal"
-  homepage = "https://github.com/pkp/healthSciences"
-  repo = "https://github.com/pkp/healthSciences"
+  name = "Advances in Accounting, Management, Business and Economics Journal"
+  homepage = "https://aambejournal.netlify.app"
+  repo = "https://github.com/onwayami2020/aambejournal"
