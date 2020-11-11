@@ -1,7 +1,7 @@
 title = "Advances in Accounting, Management, Business and Economics Journal"
 baseURL = "https://example.com/"
 languageCode = "en-US"
-theme = "health-science-journal"
+theme = "Advances in Accounting, Management, Business and Economics Journal"
 
 # The site's parameters
 [params]
