@@ -17,7 +17,7 @@ Professor Dr. Haim Hilman Abdullah
 Universiti Utara Malaysia
 
 Associate Prof. Dr. Abdullah Kaid Naji Al-Swidi                        
-Qatar University,
+Qatar University
 
 Associate Prof. Dr. Waheed Ali Umrani                         
 Sukkur IBA University, Pakistan
