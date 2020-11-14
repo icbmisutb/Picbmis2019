@@ -7,7 +7,7 @@ theme = "Advances in Accounting, Management, Business and Economics Journal"
 [params]
   home = "Home"
   abbreviatedTitle = "AAMBE Journal"
-  description = "The Advances in Accounting, Management, Business and Economics Journal is a Hugo port of a theme developed by the Public Knowledge Project for Open Journal Systems. It is adapted under a GPL license."
+  description = "The Advances in Accounting, Management, Business and Economics Journal is an open-access, peer-reviewed academic journal published by the Department of Business Adminstration, Ahmadu Bello University, Zaria - Nigeria. This journal, which is published quarterly invites authors who wish to publish their works in the fields of Accounting, Management, Business Adminstration, Economics, Human Resource Management, Organisational Behaviour, Public Adminstration, Actuarial Science and Marketing."
   favicon = "img/favicon.png"
   mirrorfor = ""
   eISSN = "XXXX-XXXX"
