@@ -1,11 +1,3 @@
-+++
-Title = "Submissions"
-Summary = "Information on submissions"
-Date = "2020-07-18T09:00:00+10:00"
-
-canonicalurl = ""
-+++
-
 ### Make a new submission .
 
 #### Submission Preparation Checklist  
