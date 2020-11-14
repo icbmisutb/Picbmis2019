@@ -10,7 +10,7 @@ features = ["journal", "publishing", "academic", "responsive"]
 min_version = "0.70.0"
 
 authors = [
-  {name = "Kabiru Jinjiri Shaun Khoo", homepage = "https://orcid.org/0000-0002-4708-231X"},
+  {name = "Shaun Khoo", homepage = "https://orcid.org/0000-0002-0972-3788"},
   {name = "Episteme Health Inc.", homepage = "https://about.epistemehealth.com/"}
 ]
 
