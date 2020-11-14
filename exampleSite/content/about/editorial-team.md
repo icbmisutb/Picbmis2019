@@ -14,18 +14,14 @@ Universiti Teknologi Brunei
 **Editorial Board**
 
 Professor Dr. Haim Hilman Abdullah             
-
 Universiti Utara Malaysia
 
 Associate Prof. Dr. Abdullah Kaid Naji Al-Swidi                        
-
 Qatar University,
 
 Associate Prof. Dr. Waheed Ali Umrani                         
-
 Sukkur IBA University, Pakistan
 
 Associate Prof. Dr. Kabiru Jinjiri Ringim       
-
 Ahmadu Bello University, Zaria - Nigeria
 
