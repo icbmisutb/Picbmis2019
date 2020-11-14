@@ -4,12 +4,12 @@ summary = "Contact information for the journal"
 date = "2020-07-18T09:00:00T+10:00"
 canonicalurl = ""
 
-addresslines = ["Address Line 1", "Address Line 2","Address Line 3"]
+addresslines = ["Department of Business Adminstration", "Ahmadu Bello University", "Zaria - Nigeria"]
 
-principalcontact = "Principal Contact"
-principalaffiliation = "Principal Affiliation"
-principalemail = "contact@example.com"
+principalcontact = "Associate Prof. Dr. Kabiru Jinjiri Ringim"
+principalaffiliation = "Ahmadu Bello University, Zaria - Nigeria"
+principalemail = "kjringim@abu.edu.ng"
 
 supportcontact = "Support Contact"
-supportemail = "support@example.com"
+supportemail = "editor@aambe-journal.org"
 +++
