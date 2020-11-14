@@ -44,9 +44,9 @@ theme = "Advances in Accounting, Management, Business and Economics Journal"
   ## Custom blocks for the footer
   customblocks = [{ name = "Custom Block", content = "Website footer custom block."},
   {name = "License", content = "This theme is adapted from the [Health Sciences Theme](https://github.com/pkp/healthsciences) by the Public Knowledge Project under a GPL license. It is released under a GPL3 license."},
-  {name = "Privacy Notice", content = "The user information collected from this website will be used exclusively for the stated purposes of this journal and will not be made available for any other purpose or to any other party.
-  {name = "Contact Us", content = "C/o [Associate Prof. Dr. Kabiru Jinjiri Ringim](https://orcid.org/0000-0002-4708-231X), at Department of Business Management."}]
-  
+  {name = "Privacy Notice", content = "The only user information collected from this website is in the form of log files generated the site's [hosting provider](https://www.netlify.com/privacy/)."},
+  {name = "Contact Us", content = "Hugo theme development by [Shaun Khoo](https://orcid.org/0000-0002-0972-3788), at [Episteme Health Inc](https://about.epistemehealth.com)."}]
+
   footercontent = "Footer content."
   
   
