@@ -1,12 +1,10 @@
 +++
-Title = "Submissions"
+Title = "### Make a new submission."
 Summary = "Information on submissions"
 Date = "2020-07-18T09:00:00+10:00"
 
 canonicalurl = ""
 +++
-
-### Make a new submission.
 
 #### Submission Preparation Checklist  
 As part of the submission process, authors are required to check off their submission's compliance with all of the following items, and submissions may be returned to authors that do not adhere to these guidelines:
