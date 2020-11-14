@@ -44,7 +44,7 @@ theme = "Advances in Accounting, Management, Business and Economics Journal"
   ## Custom blocks for the footer
   customblocks = [{ name = "ISSN Details", content = "ISSN XXXX-XXXX (Electronic) ISSN XXXX-XXXX (Print)     "},
   {name = "License", content = "This theme is adapted from the [Health Sciences Theme](https://github.com/pkp/healthsciences) by the Public Knowledge Project under a GPL license. It is released under a GPL3 license."},
-  {name = "Privacy Notice", content = "The only user information collected from this website will be used exclusively for the stated purposes of this journal and will not be made available for any other purpose or to any other party."},
+  {name = "Privacy Policy", content = "The only user information collected from this website will be used exclusively for the stated purposes of this journal and will not be made available for any other purpose or to any other party."},
   {name = "Contact Us", content = "C/o [Associate Prof. Dr. Kabiru Jinjiri Ringim](https://orcid.org/0000-0002-4708-231X), Department of Business Management, Ahmadu Bello University, Zaria - Nigeria."}]
 
   
