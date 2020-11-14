@@ -6,23 +6,22 @@ Date = "2020-07-18T09:00:00+10:00"
 canonicalurl = ""
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 **Editor-in-Chief**
 
-Scientist One [![ORCID Logo](/img/orcid.png)](https://orcid.org/)  
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu libero, nonummy eget, consectetuer id, vulputate a, magna.
+Assistant Prof. Dr. Kabiru Maitama Kura [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0001-7863-2604)  
+Universiti Teknologi Brunei
 
 **Editorial Board**
 
-Scientist Two  
-University of Science
+Professor Dr. Haim Hilman Abdullah
+Universiti Utara Malaysia
 
-Scientist Three  
-University of Research
+Associate Prof. Dr. Abdullah Kaid Naji Al-Swidi
+Qatar University,
 
-Scientist Four  
-University of Knowledge
+Associate Prof. Dr. Waheed Ali Umrani
+Sukkur IBA University, Pakistan
 
-Scientist Five  
-University of Technology
+Associate Prof. Dr. Kabiru Jinjiri Ringim  
+Ahmadu Bello University, Zaria - Nigeria
+
