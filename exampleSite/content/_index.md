@@ -3,6 +3,8 @@
 
 # Additional Information
 
-The Health Sciences Journal Theme allows you to build a static copy of a journal run using [Open Journal Systems](https://pkp.sfu.ca/ojs/). This may be used to build a static mirror or to separate the front end from the submissions back end.
+### Information For Authors
+Interested in submitting to this journal? We recommend that you review the About the Journal page for the journal's section policies, as well as the Author Guidelines prior to submitting their manuscript(s).
 
-It is primarily intended for organisations running peer-reviewed academic journals, but can be used for any serial publication.
+### Information For Librarians
+We encourage research librarians to list this journal among their library's electronic journal holdings. As well, it may be worth noting that this journal's open source publishing system is suitable for libraries to host for their faculty members to use with journals they are involved in editing see [Open Journal Systems](https://pkp.sfu.ca/ojs/). 
