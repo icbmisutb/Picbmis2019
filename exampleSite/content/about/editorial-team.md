@@ -13,7 +13,7 @@ Universiti Teknologi Brunei
 
 **Managing Editor**
 
-Associate Prof. Dr. Kabiru Jinjiri Ringim       
+Associate Prof. Dr. Kabiru Jinjiri Ringim [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0002-4708-231X)       
 Ahmadu Bello University, Zaria - Nigeria
 
 **Editorial Board**
