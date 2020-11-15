@@ -8,7 +8,7 @@ canonicalurl = ""
 
 Advances in Accounting, Management, Business and Economics Journal is abstracted and  indexed in:
 
-### GoogleScholar
+##### GoogleScholar
 
 AAMBEJ is scanned and indexed by Google Scholar. See AAMBEJ [![Google Scholar Logo](/img/orcid.png)](https://orcid.org/) profile here.
 
