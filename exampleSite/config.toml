@@ -94,9 +94,14 @@ theme = "Advances in Accounting, Management, Business and Economics Journal"
       weight = 7
     [[menu.main]]
       parent = "About"
+      name = "Abstracting/Indexing"
+      url = "about/abstracting/indexing"
+      weight = 8
+    [[menu.main]]
+      parent = "About"
       name = "Contact"
       url = "contact"
-      weight = 8
+      weight = 9
 
 # Output formats
 [mediaTypes]
