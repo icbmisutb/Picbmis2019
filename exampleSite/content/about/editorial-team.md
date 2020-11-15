@@ -11,6 +11,11 @@ canonicalurl = ""
 Assistant Prof. Dr. Kabiru Maitama Kura [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0001-7863-2604)  
 Universiti Teknologi Brunei
 
+**Managing Editor**
+
+Associate Prof. Dr. Kabiru Jinjiri Ringim       
+Ahmadu Bello University, Zaria - Nigeria
+
 **Editorial Board**
 
 Professor Dr. Haim Hilman Abdullah             
@@ -22,6 +27,4 @@ Qatar University
 Associate Prof. Dr. Waheed Ali Umrani                         
 Sukkur IBA University, Pakistan
 
-Associate Prof. Dr. Kabiru Jinjiri Ringim       
-Ahmadu Bello University, Zaria - Nigeria
 
