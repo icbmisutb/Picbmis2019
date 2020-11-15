@@ -95,7 +95,7 @@ theme = "Advances in Accounting, Management, Business and Economics Journal"
     [[menu.main]]
       parent = "About"
       name = "Abstracting/Indexing"
-      url = "about/abstracting/indexing"
+      url = "about/abstracting-indexing"
       weight = 8
     [[menu.main]]
       parent = "About"
