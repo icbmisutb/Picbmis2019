@@ -10,5 +10,5 @@ Advances in Accounting, Management, Business and Economics Journal is abstracted
 
 ### GoogleScholar
 
-AAMBEJ will be scanned and indexed by Google Scholar. See AAMBEJ [![Google Scholar icon](https://icon-library.net/icon/google-scholar-icon-23.html)
+AAMBEJ will be scanned and indexed by Google Scholar. See AAMBEJ [<i class="ai ai-google-scholar-square ai-3x"></i>](https://icon-library.net/icon/google-scholar-icon-23.html)
 
