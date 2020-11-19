@@ -10,7 +10,7 @@ Advances in Accounting, Management, Business and Economics Journal is abstracted
 
 
 
-<img src="K:\OneDrive - Universiti Teknologi Brunei\Desktop\Google Scholar.png" alt="Google Scholar" style="zoom:70%;" />
+<img src="Google Scholar.png" alt="Google Scholar" style="zoom:70%;" />
 
 AAMBEJ will be scanned and indexed by Google Scholar. To view AAMBE's Google Profile, [Click here](https://scholar.google.com/)
 
