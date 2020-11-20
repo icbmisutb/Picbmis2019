@@ -21,11 +21,23 @@ Ahmadu Bello University, Zaria - Nigeria
 Professor Dr. Haim Hilman Abdullah             
 Universiti Utara Malaysia
 
+Professor Dr. Abdu Jaafaru Bambale
+Bayero University, Kano, Nigeria
+
 Associate Prof. Dr. Abdullah Kaid Naji Al-Swidi [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0002-1718-0269)                         
 Qatar University
 
-Associate Prof. Dr. Waheed Ali Umrani [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0001-9835-3979)                          
+Professor Dr. Aminu Ahmad
+Abubakar Tafawa Balewa University, Nigeria
+
+Associate Prof. Dr Waheed Ali Umrani [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0001-9835-3979)                          
 Sukkur IBA University, Pakistan
+
+Professor Dr. Sani A. Abdullahi       
+Ahmadu Bello University, Zaria - Nigeria
 
 Associate Prof. Dr. Andi Reni Syamsuddin [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0001-9835-3979)                          
 Hasanuddin University, Indonesia Indonesia
+
+Professor Dr. Sulaiman Abdullahi Karwai       
+Ahmadu Bello University, Zaria - Nigeria
