@@ -27,7 +27,7 @@ Bayero University, Kano, Nigeria
 Associate Prof. Dr. Abdullah Kaid Naji Al-Swidi [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0002-1718-0269)                         
 Qatar University
 
-Professor Dr. Aminu Ahmad
+Professor Dr. Aminu Ahmad          
 Abubakar Tafawa Balewa University, Nigeria
 
 Associate Prof. Dr Waheed Ali Umrani [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0001-9835-3979)                          
