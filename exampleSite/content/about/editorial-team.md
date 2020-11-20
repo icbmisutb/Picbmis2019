@@ -41,3 +41,7 @@ Hasanuddin University, Indonesia Indonesia
 
 Professor Dr. Sulaiman Abdullahi Karwai       
 Ahmadu Bello University, Zaria - Nigeria
+
+Senior Assistant Professor Dr Yazid Abubakar Abdullahi
+Universiti Brunei Darussalam
+
