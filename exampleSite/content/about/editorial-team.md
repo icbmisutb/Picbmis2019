@@ -21,6 +21,9 @@ Ahmadu Bello University, Zaria - Nigeria
 Professor Dr. Haim Hilman Abdullah             
 Universiti Utara Malaysia
 
+Dr. Nasiru Abdullahi [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0002-4708-231X)       
+Ahmadu Bello University, Zaria - Nigeria
+
 Professor Dr. Abdu Jaafaru Bambale
 Bayero University, Kano, Nigeria
 
