@@ -21,10 +21,10 @@ Ahmadu Bello University, Zaria - Nigeria
 Professor Dr. Haim Hilman Abdullah             
 Universiti Utara Malaysia
 
-Associate Prof. Dr. Abdullah Kaid Naji Al-Swidi                        
+Associate Prof. Dr. Abdullah Kaid Naji Al-Swidi [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0002-1718-0269)                         
 Qatar University
 
-Associate Prof. Dr. Waheed Ali Umrani                         
+Associate Prof. Dr. Waheed Ali Umrani [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0001-9835-3979)                          
 Sukkur IBA University, Pakistan
 
 
