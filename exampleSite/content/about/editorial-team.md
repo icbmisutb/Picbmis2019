@@ -27,4 +27,5 @@ Qatar University
 Associate Prof. Dr. Waheed Ali Umrani [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0001-9835-3979)                          
 Sukkur IBA University, Pakistan
 
-
+Associate Prof. Dr. Andi Reni Syamsuddin [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0001-9835-3979)                          
+Hasanuddin University, Indonesia Indonesia
