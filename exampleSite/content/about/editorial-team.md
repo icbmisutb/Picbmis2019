@@ -24,7 +24,7 @@ Universiti Utara Malaysia
 Dr. Nasiru Abdullahi [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0002-4708-231X)       
 Ahmadu Bello University, Zaria - Nigeria
 
-Professor Dr. Abdu Jaafaru Bambale
+Professor Dr. Abdu Jaafaru Bambale     
 Bayero University, Kano, Nigeria
 
 Associate Prof. Dr. Abdullah Kaid Naji Al-Swidi [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0002-1718-0269)                         
