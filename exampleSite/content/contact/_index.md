@@ -1,15 +1,13 @@
 +++
 title = "Contact"
-summary = "Contact information for the journal"
-date = "2020-07-18T09:00:00T+10:00"
+summary = "Contact information for the Proceedings"
+date = "2019-11-18T09:00:00T+10:00"
 canonicalurl = ""
 
-addresslines = ["Department of Business Adminstration", "Ahmadu Bello University", "Zaria - Nigeria"]
+addresslines = ["UTB School of Business", "Universiti Teknologi Brunei Brunei Darussalam"]
 
-principalcontact = "Associate Prof. Dr. Kabiru Jinjiri Ringim"
-principalaffiliation = "Ahmadu Bello University, Zaria - Nigeria"
-principalemail = "kjringim@abu.edu.ng"
+principalcontact = "Dr. Mohamed Saleem Haja Nazmudeen"
+principalaffiliation = "Universiti Teknologi Brunei Brunei Darussalam"
+principalemail = "icbmis2019@utb.edu.bn"
 
-supportcontact = "Support Contact"
-supportemail = "editor@aambe-journal.org"
 +++
