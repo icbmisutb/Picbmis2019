@@ -1,6 +1,6 @@
 +++
-title = "Green Human Resource Management Issues"
-description = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue eu neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris ut leo. Cras viverra metus rhoncus sem. Nulla et lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. Praesent eget sem vel leo ultrices bibendum. Aenean faucibus. Morbi dolor nulla, malesuada eu, pulvinar at, mollis ac, nulla. Curabitur auctor semper nulla. Donec varius orci eget risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis quis, diam. Duis eget orci sit amet orci dignissim rutrum."
+title = "Sustainable Innovation in Business, Management and Information Systems"
+description = "The Proceddings of the 1st International Conference on Business, Management and Information Systems 2019 (ICBMIS 2019) publishes original research contributions formatted according to the given format. This Proceddings is based on the 1st ICBMIS 2019, which was held from 13th – 15th November 2019 in Universiti Technologi Brunei, Brunei Darussalam."
 # issuecover = "img/coverimage.png"
 canonicalurl = ""
 [cascade]
