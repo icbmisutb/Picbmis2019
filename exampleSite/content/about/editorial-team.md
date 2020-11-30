@@ -6,45 +6,89 @@ Date = "2020-07-18T09:00:00+10:00"
 canonicalurl = ""
 +++
 
-**Editor-in-Chief**
+**HONORARY CHAIR/ADVISOR**
+ 
+Professor Dr Hjh Zohrah Binti Haji Sulaiman
 
-Assistant Prof. Dr. Kabiru Maitama Kura [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0001-7863-2604)  
-Universiti Teknologi Brunei
+**STEERING COMMITTEE**
 
-**Managing Editor**
+ **Chairperson**
 
-Associate Prof. Dr. Kabiru Jinjiri Ringim [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0002-4708-231X)       
-Ahmadu Bello University, Zaria - Nigeria
+Professor Dr Zuruzi Abu Samah (Assistant Vice Chancellor Research, UTB)
 
-**Editorial Board**
+**Members**
 
-Professor Dr. Haim Hilman Abdullah             
-Universiti Utara Malaysia
+Dr Hjh Noor Maya Binti Haji Md. Salleh (Assistant Vice Chancellor Academic, UTB)
+Awang Hj Ady Syarmin Bin Hj Md Taib (Assistant Vice Chancellor Industry & Services, UTB)
+Awang Lim Chui Hua (Registrar and Secretary, UTB)
+Awang Hamdani Bin Hj Ibrahim (Finance, UTB)
+Dr Mohamed Saleem Haja Nazmudeen (Dean, UTB School of Business)
 
-Dr. Nasiru Abdullahi [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0002-4708-231X)       
-Ahmadu Bello University, Zaria - Nigeria
 
-Professor Dr. Abdu Jaafaru Bambale     
-Bayero University, Kano, Nigeria
+**INTERNATIONAL ADVISORY BOARD**
 
-Associate Prof. Dr. Abdullah Kaid Naji Al-Swidi [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0002-1718-0269)                         
-Qatar University
+Professor Muzaffar Shah Habibullah (UPM-FEM, Malaysia)
+Professor Hum Sin Hoon (NUS, Singapore)
+Associate Professor PGS.TS. Đỗ Phúc (UIT, Vietnam)
+Dr Imran Alvi (Oxford Intellect, Oxford, UK)
 
-Professor Dr. Aminu Ahmad          
-Abubakar Tafawa Balewa University, Nigeria
+**ORGANISING COMMITTEE**
 
-Associate Prof. Dr Waheed Ali Umrani [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0001-9835-3979)                          
-Sukkur IBA University, Pakistan
+**Chairperson**
 
-Professor Dr. Sani A. Abdullahi       
-Ahmadu Bello University, Zaria - Nigeria
+Dr Mohamed Saleem Haja Nazmudeen
 
-Associate Prof. Dr. Andi Reni Syamsuddin [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0001-9835-3979)                          
-Hasanuddin University, Indonesia Indonesia
+**Deputy Chairs**
 
-Professor Dr. Sulaiman Abdullahi Karwai       
-Ahmadu Bello University, Zaria - Nigeria
+Dr Fadzliwati Binti Mohiddin
+Dr Fahmi Ibrahim
 
-Senior Assistant Professor Dr Yazid Abubakar Abdullahi     
-Universiti Brunei Darussalam
+**TECHNICAL COMMITTEE**
+
+**Chairperson**
+Professor Kamariah Binti Ismail
+
+**Members**
+Dr Imran Alvi, UK
+Dr Zahid Parvez, UK
+Assoc. Prof. Abdelkader Chachi, Turkey
+Assoc. Prof. Dr Adeel Malik, UK
+Assoc. Prof. Seyed Mohamed Buhari MI, KSA
+Dr Min-Son Dao, Japan
+Dr Golda Brunet, India
+Assoc. Prof. Jamalludin Hashim, Malaysia
+Dr Sabrinah Adam, Malaysia
+Dr Zuraidah Sulaiman, Malaysia
+Dr Adaviah Mas’od, Malaysia
+Assoc. Prof. Aslan bin Amat Senin, Malaysia
+Dr Mohd Khairuddin Ramliy, Malaysia
+Dr Ai Chin Thoo, Malaysia
+Dr Nguyen Phuc Canh, Vietnam
+Dr Mohamed Syazwan, Brunei
+Dr Noriza Mohd Jamal, Malaysia
+Dr Mohammad Faisal Rizwan, Pakistan
+Prof Syed Mohammad Amir Shah, Pakistan
+Dr Shaista Wasiuzzaman, Brunei
+Dr Larry Su, Brunei
+Mohamad Zawawi Bin Bahari, Brunei
+Hjh Farahiyah Binti Hj Kawi, Brunei
+Dr Fahmi Ibrahim, Brunei
+Dr Safi Ullah Khan, Brunei
+Liana Artini Binti Hj Mohd. Noor, Brunei
+Dk Ida Nurul-Fitri Binti Pg Hj Kahar, Brunei
+Siti Asmahlahti Bolkini Binti A. Hj Ahmad, Brunei
+Radin Jefri Radin Mas Basiuni, Brunei
+Muhammad Shahmauluddin Bin Hj Shahlehi, Brunei
+Dr Ulaganathan Subramanian, Brunei
+Dr Shahid Anjum, Brunei
+Dr Kabiru Maitama Kura, Brunei
+Mohd Rozaidin Bin Dr. Hj Md Serudin, Brunei
+Mohammad Hifzhan Dzulfiqar Bin Azhar, Brunei
+Hjh Siti Eddyilahwati Binti Hj Suhaili, Brunei
+Dr Fadzliwati Binti Mohiddin, Brunei
+Hjh Norazillah Binti Hj Abdullah, Brunei
+Pg Abdul Mutalib Bin Pg Hj Kamalludin, Brunei
+Dr Ibrahim Aramide Salihu, Brunei
+
+
 
