@@ -80,8 +80,8 @@ theme = "Advances in Accounting, Management, Business and Economics Journal"
       hasChildren = true
     [[menu.main]]
       parent = "About"
-      name = "About the Journal"
-      url = "about/journal"
+      name = "About the Proceedings"
+      url = "about/proceedings"
       weight = 5
     [[menu.main]]
       parent = "About"
