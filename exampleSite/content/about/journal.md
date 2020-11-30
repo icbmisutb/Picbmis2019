@@ -1,5 +1,5 @@
 +++
-Title = "About the Journal"
+Title = "About the Proceddings"
 Summary = "Basic information about the Proceedings"
 Date = "2020-07-18T09:00:00+10:00"
 
