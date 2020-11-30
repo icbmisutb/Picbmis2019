@@ -10,7 +10,7 @@ theme = "Proceedings of the 1st International Conference on Business, Management
   description = "The Proceedings of the 1st International Conference on Business, Management and Information Systems 2019 (ICBMIS 2019) is an open-access, peer-reviewed academic conference proceedings published by the UTB School of Business, Universiti Teknologi Brunei. This Proceedings, which is published annaualy encourages works in the fields of Accounting, Business, Management, Information Systems, and Economics."
   favicon = "img/favicon.png"
   mirrorfor = ""
-  eISSN = "XXXX-XXXX"
+  eISBN = "978-99917-919-5-1"
     
   ## Publisher Information
   publisher = {name = "Episteme Health Inc.", city = "Melbourne", state = "Victoria", country = "Australia"}
