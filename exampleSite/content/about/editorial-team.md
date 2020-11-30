@@ -49,46 +49,44 @@ Dr Fahmi Ibrahim
 Professor Kamariah Binti Ismail
 
 **Members**
-Dr Imran Alvi, UK
-Dr Zahid Parvez, UK
-Assoc. Prof. Abdelkader Chachi, Turkey
-Assoc. Prof. Dr Adeel Malik, UK
-Assoc. Prof. Seyed Mohamed Buhari MI, KSA
-Dr Min-Son Dao, Japan
-Dr Golda Brunet, India
-Assoc. Prof. Jamalludin Hashim, Malaysia
-Dr Sabrinah Adam, Malaysia
-Dr Zuraidah Sulaiman, Malaysia
-Dr Adaviah Mas’od, Malaysia
-Assoc. Prof. Aslan bin Amat Senin, Malaysia
-Dr Mohd Khairuddin Ramliy, Malaysia
-Dr Ai Chin Thoo, Malaysia
-Dr Nguyen Phuc Canh, Vietnam
-Dr Mohamed Syazwan, Brunei
-Dr Noriza Mohd Jamal, Malaysia
-Dr Mohammad Faisal Rizwan, Pakistan
-Prof Syed Mohammad Amir Shah, Pakistan
-Dr Shaista Wasiuzzaman, Brunei
-Dr Larry Su, Brunei
-Mohamad Zawawi Bin Bahari, Brunei
-Hjh Farahiyah Binti Hj Kawi, Brunei
-Dr Fahmi Ibrahim, Brunei
-Dr Safi Ullah Khan, Brunei
-Liana Artini Binti Hj Mohd. Noor, Brunei
-Dk Ida Nurul-Fitri Binti Pg Hj Kahar, Brunei
-Siti Asmahlahti Bolkini Binti A. Hj Ahmad, Brunei
-Radin Jefri Radin Mas Basiuni, Brunei
-Muhammad Shahmauluddin Bin Hj Shahlehi, Brunei
-Dr Ulaganathan Subramanian, Brunei
-Dr Shahid Anjum, Brunei
-Dr Kabiru Maitama Kura, Brunei
-Mohd Rozaidin Bin Dr. Hj Md Serudin, Brunei
-Mohammad Hifzhan Dzulfiqar Bin Azhar, Brunei
-Hjh Siti Eddyilahwati Binti Hj Suhaili, Brunei
-Dr Fadzliwati Binti Mohiddin, Brunei
-Hjh Norazillah Binti Hj Abdullah, Brunei
-Pg Abdul Mutalib Bin Pg Hj Kamalludin, Brunei
-Dr Ibrahim Aramide Salihu, Brunei
 
-
-
+- Dr Imran Alvi, UK
+- Dr Zahid Parvez, UK
+- Assoc. Prof. Abdelkader Chachi, Turkey
+- Assoc. Prof. Dr Adeel Malik, UK
+- Assoc. Prof. Seyed Mohamed Buhari MI, KSA
+- Dr Min-Son Dao, Japan
+- Dr Golda Brunet, India
+- Assoc. Prof. Jamalludin Hashim, Malaysia
+- Dr Sabrinah Adam, Malaysia
+- Dr Zuraidah Sulaiman, Malaysia
+- Dr Adaviah Mas’od, Malaysia
+- Assoc. Prof. Aslan bin Amat Senin, Malaysia
+- Dr Mohd Khairuddin Ramliy, Malaysia
+- Dr Ai Chin Thoo, Malaysia
+- Dr Nguyen Phuc Canh, Vietnam
+- Dr Mohamed Syazwan, Brunei
+- Dr Noriza Mohd Jamal, Malaysia
+- Dr Mohammad Faisal Rizwan, Pakistan
+- Prof Syed Mohammad Amir Shah, Pakistan
+- Dr Shaista Wasiuzzaman, Brunei
+- Dr Larry Su, Brunei
+- Mohamad Zawawi Bin Bahari, Brunei
+- Hjh Farahiyah Binti Hj Kawi, Brunei
+- Dr Fahmi Ibrahim, Brunei
+- Dr Safi Ullah Khan, Brunei
+- Liana Artini Binti Hj Mohd. Noor, Brunei
+- Dk Ida Nurul-Fitri Binti Pg Hj Kahar, Brunei
+- Siti Asmahlahti Bolkini Binti A. Hj Ahmad, Brunei
+- Radin Jefri Radin Mas Basiuni, Brunei
+- Muhammad Shahmauluddin Bin Hj Shahlehi, Brunei
+- Dr Ulaganathan Subramanian, Brunei
+- Dr Shahid Anjum, Brunei
+- Dr Kabiru Maitama Kura, Brunei
+- Mohd Rozaidin Bin Dr. Hj Md Serudin, Brunei
+- Mohammad Hifzhan Dzulfiqar Bin Azhar, Brunei
+- Hjh Siti Eddyilahwati Binti Hj Suhaili, Brunei
+- Dr Fadzliwati Binti Mohiddin, Brunei
+- Hjh Norazillah Binti Hj Abdullah, Brunei
+- Pg Abdul Mutalib Bin Pg Hj Kamalludin, Brunei
+- Dr Ibrahim Aramide Salihu, Brunei
