@@ -41,7 +41,7 @@ theme = "Proceedings of the 1st International Conference on Business, Management
   useCDN = false
   
   ## Custom blocks for the footer
-  customblocks = [{ name = "ISSN Details", content = "ISBN XXXX-XXXX (Electronic)     "},
+  customblocks = [{ name = "ISBN Details", content = "ISBN 978-99917-919-5-1 (Electronic)     "},
   {name = "License", content = "This theme is released under the GPL3 license."},
   {name = "Privacy Notice", content = "The only user information collected from this website will be used exclusively for the stated purposes of this journal and will not be made available for any other purpose or to any other party."},
   {name = "Contact Us", content = "Dr Mohamed Saleem Haja Nazmudeen (Dean, UTB School of Business)."}]
