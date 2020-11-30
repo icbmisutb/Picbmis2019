@@ -1,6 +1,6 @@
 +++
 title = "Contact"
-summary = "Contact information for the journal"
+summary = "Contact information for the Proceedings"
 date = "2020-07-18T09:00:00T+10:00"
 canonicalurl = ""
 
@@ -10,6 +10,5 @@ principalcontact = "Principal Contact"
 principalaffiliation = "Principal Affiliation"
 principalemail = "contact@example.com"
 
-supportcontact = "Support Contact"
-supportemail = "support@example.com"
+
 +++
