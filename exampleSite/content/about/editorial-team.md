@@ -18,19 +18,19 @@ Professor Dr Zuruzi Abu Samah (Assistant Vice Chancellor Research, UTB)
 
 **Members**
 
-Dr Hjh Noor Maya Binti Haji Md. Salleh (Assistant Vice Chancellor Academic, UTB)
-Awang Hj Ady Syarmin Bin Hj Md Taib (Assistant Vice Chancellor Industry & Services, UTB)
-Awang Lim Chui Hua (Registrar and Secretary, UTB)
-Awang Hamdani Bin Hj Ibrahim (Finance, UTB)
-Dr Mohamed Saleem Haja Nazmudeen (Dean, UTB School of Business)
+- Dr Hjh Noor Maya Binti Haji Md. Salleh (Assistant Vice Chancellor Academic, UTB)
+- Awang Hj Ady Syarmin Bin Hj Md Taib (Assistant Vice Chancellor Industry & Services, UTB)
+- Awang Lim Chui Hua (Registrar and Secretary, UTB)
+- Awang Hamdani Bin Hj Ibrahim (Finance, UTB)
+- Dr Mohamed Saleem Haja Nazmudeen (Dean, UTB School of Business)
 
 
 **INTERNATIONAL ADVISORY BOARD**
 
-Professor Muzaffar Shah Habibullah (UPM-FEM, Malaysia)
-Professor Hum Sin Hoon (NUS, Singapore)
-Associate Professor PGS.TS. Đỗ Phúc (UIT, Vietnam)
-Dr Imran Alvi (Oxford Intellect, Oxford, UK)
+- Professor Muzaffar Shah Habibullah (UPM-FEM, Malaysia)
+- Professor Hum Sin Hoon (NUS, Singapore)
+- Associate Professor PGS.TS. Đỗ Phúc (UIT, Vietnam)
+- Dr Imran Alvi (Oxford Intellect, Oxford, UK)
 
 **ORGANISING COMMITTEE**
 
