@@ -74,34 +74,30 @@ theme = "Advances in Accounting, Management, Business and Economics Journal"
       weight = 3
       name = "Archives"
       url = "article"
-    [[menu.main]]
+     [[menu.main]]
       weight = 4
-      name = "Submit"
-      url = "about/submissions"
-    [[menu.main]]
-      weight = 5
       name = "About"
       hasChildren = true
     [[menu.main]]
       parent = "About"
       name = "About the Journal"
       url = "about/journal"
-      weight = 6
+      weight = 5
     [[menu.main]]
       parent = "About"
       name = "Editorial Team"
       url = "about/editorial-team"
-      weight = 7
+      weight = 6
     [[menu.main]]
       parent = "About"
       name = "Abstracting/Indexing"
       url = "about/abstracting-indexing"
-      weight = 8
+      weight = 7
     [[menu.main]]
       parent = "About"
       name = "Contact"
       url = "contact"
-      weight = 9
+      weight = 8
 
 # Output formats
 [mediaTypes]
