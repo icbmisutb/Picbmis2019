@@ -4,7 +4,7 @@ description = "The Proceddings of the 1st International Conference on Business, 
 # issuecover = "img/coverimage.png"
 canonicalurl = ""
 [cascade]
-  issuedate = "2019-11-01T09:00:00+10:00"
+  issuedate = "2019-11-14T09:00:00+10:00"
   volume = "1"
   issue = "1"
 +++
