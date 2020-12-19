@@ -14,7 +14,7 @@ theme = "Proceedings of the 1st International Conference on Business, Management
     
   ## Publisher Information
   publisher = {name = "Episteme Health Inc.", city = "Melbourne", state = "Victoria", country = "Australia"}
-  journalDOI = "10.xxxx/demo"
+  journalDOI = ""
   publisherjournalabbreviation = "HSJT"
   subjects = ["Subject1", "Subject2"]
   crossmark_enabled = false
