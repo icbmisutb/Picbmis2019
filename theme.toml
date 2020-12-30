@@ -2,7 +2,7 @@
 
 name = "The Proceedings of the 1st International Conference on Business, Management and Information Systems 2019 (ICBMIS 2019)"
 license = "GPL v3+"
-licenselink = "https://github.com/epistemehealth/health-sciences-theme/blob/master/LICENSE.md"
+licenselink = ""
 description = "Hugo port of the Health Sciences theme for Open Journal systems."
 homepage = "https://www.icbmis-utb.org/"
 tags = ["journal", "ICBMIS 2019"]
@@ -10,8 +10,8 @@ features = ["proceedings", "publishing", "academic", "responsive"]
 min_version = "0.70.0"
 
 authors = [
-  {name = "Shaun Khoo", homepage = "https://orcid.org/0000-0002-0972-3788"},
-  {name = "Episteme Health Inc.", homepage = "https://about.epistemehealth.com/"}
+  {name = ""},
+  {name = ""}
 ]
 
 [original]
