@@ -5,8 +5,8 @@ license = "GPL v3+"
 licenselink = "https://github.com/epistemehealth/health-sciences-theme/blob/master/LICENSE.md"
 description = "Hugo port of the Health Sciences theme for Open Journal systems."
 homepage = "https://github.com/epistemehealth/health-sciences-theme"
-tags = ["journal", "AAMBE Journal"]
-features = ["journal", "publishing", "academic", "responsive"]
+tags = ["journal", "ICBMIS 2019"]
+features = ["proceedings", "publishing", "academic", "responsive"]
 min_version = "0.70.0"
 
 authors = [
