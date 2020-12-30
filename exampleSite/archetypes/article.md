@@ -27,7 +27,6 @@ modifieddate = ""
 ## Details like volume and issue cascade from the issue metadata. Language will cascade from site metadata.
 
 articleID = ""
-DOI = ""
 # volume = ""
 # issue = ""
 firstpage = ""
