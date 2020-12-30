@@ -6,7 +6,7 @@ Date = "2019-11-18T09:00:00+10:00"
 canonicalurl = ""
 +++
 
-Proceedings of the 1st International Conference on Business, Management and Information Systems 2019 (ICBMIS 2019)  indexed in:
+The Proceedings of the 1st International Conference on Business, Management and Information Systems 2019 (ICBMIS 2019)  indexed in:
 
 
 
