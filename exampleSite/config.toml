@@ -32,9 +32,9 @@ theme = "Health Sciences Theme"
   currentissuepath = ""
   
   twittercard = "summary_large_image"
-  twitterhandle = "@epistemehealth"
+  twitterhandle = ""
   socialimage = "img/twittercard.jpg"
-  socialimagealt = "Health Sciences Journal Logo"
+  socialimagealt = ""
   socialdescription = "The Proceedings of the 1st International Conference on Business, Management and Information Systems 2019"
   
   ## Set to true to load libraries from Cloudflare and Bootstrap CDNs where available. Otherwise leave blank.
