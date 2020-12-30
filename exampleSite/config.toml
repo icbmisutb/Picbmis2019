@@ -1,4 +1,4 @@
-title = "Proceedings of the 1st International Conference on Business, Management and Information Systems 2019 (ICBMIS 2019)"
+title = "The Proceedings of the 1st International Conference on Business, Management and Information Systems 2019 (ICBMIS 2019)"
 baseURL = "https://www.icbmis-utb.org/"
 languageCode = "en-US"
 theme = "Health Sciences Theme"
@@ -161,4 +161,4 @@ theme = "Health Sciences Theme"
   page = ["html", "galleyPDF", "galleyXML", "exportris", "exportenw", "exportbib", "exportcsljson" ]
 
 [taxonomies]
-  keyword = "keywords"
+  keyword = "Business, Management and Information Systems"
