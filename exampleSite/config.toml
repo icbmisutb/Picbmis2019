@@ -6,17 +6,17 @@ theme = "Proceedings of the 1st International Conference on Business, Management
 # The site's parameters
 [params]
   home = "Home"
-  abbreviatedTitle = "ICBMIS 2019"
+  abbreviatedTitle = ""
   description = "The Proceedings of the 1st International Conference on Business, Management and Information Systems 2019 (ICBMIS 2019) is an open-access, peer-reviewed academic conference proceedings published by the UTB School of Business, Universiti Teknologi Brunei. This Proceedings, which is published annaualy encourages works in the fields of Accounting, Business, Management, Information Systems, and Economics."
   favicon = "img/favicon.png"
   mirrorfor = ""
   eISBN = "978-99917-919-5-1"
     
   ## Publisher Information
-  publisher = {name = "Episteme Health Inc.", city = "Melbourne", state = "Victoria", country = "Australia"}
+  publisher = {name = "Universiti Teknologi Brunei", city = "Gadong A", state = "Bandar Seri Begawan,", country = "Brunei Darussalam"}
   journalDOI = ""
-  publisherjournalabbreviation = "HSJT"
-  subjects = ["Subject1", "Subject2"]
+  publisherjournalabbreviation = ""
+  subjects = ["Business", "Management", "Information Systems"]
   crossmark_enabled = false
   
   ## Homepage image. Different sizes can be used to provide responsiveness.
@@ -35,7 +35,7 @@ theme = "Proceedings of the 1st International Conference on Business, Management
   twitterhandle = "@epistemehealth"
   socialimage = "img/twittercard.jpg"
   socialimagealt = "Health Sciences Journal Logo"
-  socialdescription = "Advances in Accounting, Management, Business and Economics Journal Description"
+  socialdescription = "The Proceedings of the 1st International Conference on Business, Management and Information Systems 2019"
   
   ## Set to true to load libraries from Cloudflare and Bootstrap CDNs where available. Otherwise leave blank.
   useCDN = false
@@ -51,7 +51,7 @@ theme = "Proceedings of the 1st International Conference on Business, Management
   
   [privacy]
   [privacy.googleAnalytics]
-    disable = true
+    disable = false
   [privacy.disqus]
     disable = true
   [privacy.instagram]
