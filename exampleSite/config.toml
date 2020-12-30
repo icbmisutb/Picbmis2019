@@ -14,7 +14,6 @@ theme = "Health Sciences Theme"
     
   ## Publisher Information
   publisher = {name = "Universiti Teknologi Brunei", city = "Gadong A", state = "Bandar Seri Begawan,", country = "Brunei Darussalam"}
-  journalDOI = ""
   publisherjournalabbreviation = ""
   subjects = ["Business", "Management", "Information Systems"]
   crossmark_enabled = false
