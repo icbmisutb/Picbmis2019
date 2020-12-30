@@ -16,8 +16,6 @@ authors = [
 affiliations = [{ ISNI ="", ROR = "", name = ""},
 { ISNI = "", ROR = "", name = ""}]
 
-funding = [{fundref = "10.xxxx/xxxx", funder = "fundername", awardid = "" }]
-
 submitdate = ""
 reviseddate = ""
 acceptdate = ""
