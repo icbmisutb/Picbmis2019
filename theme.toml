@@ -5,7 +5,7 @@ license = "GPL v3+"
 licenselink = ""
 description = "Hugo port of the Health Sciences theme for Open Journal systems."
 homepage = "https://www.icbmis-utb.org/"
-tags = ["journal", "ICBMIS 2019"]
+tags = ["Poceedings", "ICBMIS 2019"]
 features = ["proceedings", "publishing", "academic", "responsive"]
 min_version = "0.70.0"
 
@@ -17,4 +17,4 @@ authors = [
 [original]
   name = "The Proceedings of the 1st International Conference on Business, Management and Information Systems 2019 (ICBMIS 2019)"
   homepage = "https://www.icbmis-utb.org/"
-  repo = "https://icbmisutb.github.io/icbmis2019/"
+  repo = ""
